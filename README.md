@@ -1,31 +1,40 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
   A cada dia aprimorando meus conhecimentos como <strong>Front-End</strong>.<br>
   Atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC.
+  <p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/ravielsousalopes@gmail.com/" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviel-sousa-computertech/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&linkhttps://www.instagram.com/raviel.sousa/" alt="Instagram"/></a>
 </p>
+<br>
 
 ## 🚀 Habilidades Técnicas
 
-- Linguagens de Programação: 
-
-    [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
-
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-- Dados: 
-
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
-
-    [![My Skills](https://skillicons.dev/icons?i=github,vscode,pycharm)](https://skillicons.dev)
-- Desenvolvimento Web:
-
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
-- Extras:
-
-    [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop)](https://skillicons.dev)
+<p align-content="flex-start">
+  
+  - Linguagens de Programação: 
+      [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
+    
+  - Frameworks e Bibliotecas: 
+      [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+    
+  - Dados: 
+      [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+    
+  - Ferramentas e Tecnologias: 
+      [![My Skills](https://skillicons.dev/icons?i=github,vscode,pycharm)](https://skillicons.dev)
+    
+  - Desenvolvimento Web:
+      [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+  
+  - Extras:
+      [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop)](https://skillicons.dev)
+</p>
 
 ### ⚙️ GitHub Analytics
 
