@@ -5,6 +5,28 @@
   Atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC.
 </p>
 
+## 🚀 Habilidades Técnicas
+
+- Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
+
+    [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=github,vscode,pycharm)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+- Extras:
+
+    [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop)](https://skillicons.dev)
+
 ### ⚙️ GitHub Analytics
 
 <table>
