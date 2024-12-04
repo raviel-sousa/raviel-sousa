@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="200px" align="right">
 
-<p align="left"> 
+<p align="left">
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=raviel-sousa&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
   A cada dia aprimorando meus conhecimentos como <strong>Front-End</strong>.<br>
   Atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC.<br>
   Formado em Técninco de Informática pelo Senac.<br>
