@@ -3,6 +3,7 @@
 <p align="left"> 
   A cada dia aprimorando meus conhecimentos como <strong>Front-End</strong>.<br>
   Atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC.
+  Formado em Técninco de Informática pelo Senac.
   <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/ravielsousalopes@gmail.com/" alt="Gmail"/></a>
